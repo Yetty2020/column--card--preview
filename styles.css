@@ -1,0 +1,26 @@
+body{
+  background-color: #F1F0C0;
+}
+section{
+  margin: auto;
+}
+h3{
+  text-align: center;
+}
+
+/* CLASS SELECTORS */
+.container-fluid{
+  padding: 10% 10%;
+
+}
+.box{
+  border-radius: 5%;
+  padding: 8%;
+}
+.box:hover{
+  background-color: black;
+
+}
+.button{
+  border-radius: 2%;
+}
